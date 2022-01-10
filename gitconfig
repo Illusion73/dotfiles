@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = maxime.arq@gmail.com
+	name = Maxime Arquilliere
